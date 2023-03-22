@@ -24,6 +24,7 @@ I'm Feriel a junior web developer and a Fullstack JS lead instructor.Currently 2
 ### 👩‍💻 Most Used Programming Languages
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feriel214&show_icons=true&locale=en&layout=compact" alt="feriel214" /></p>
+
 </br>
 
 ### 🛠️ Languages & Tools
